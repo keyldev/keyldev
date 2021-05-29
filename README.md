@@ -1,6 +1,8 @@
 <br> <a href="https://github.com/anuraghazra/github-readme-stats">
+  <p align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=keyldev&show_icons=true&include_all_commits=true&theme=gotham" 
        alt="Anurag's github stats" />
+    </p>
 </a> 
 </br>
 
