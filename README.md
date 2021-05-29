@@ -2,6 +2,8 @@
   <p align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=keyldev&show_icons=true&include_all_commits=true&theme=gotham" 
        alt=" github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gotham" 
+       alt=" github stats" />
     </p>
 </a> 
 </br>
