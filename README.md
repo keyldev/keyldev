@@ -4,7 +4,7 @@
        alt=" github stats" /><br>
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=keyldev&show_icons=true&include_all_commits=true&theme=gotham" 
        alt=" github stats" /><br>
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gotham" 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=keyldev&layout=compact&theme=gotham" 
        alt=" github stats" />
     </p>
 </a> 
