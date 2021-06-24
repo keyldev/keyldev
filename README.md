@@ -11,3 +11,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 My stack / мой стек: 
+ - Pawn
+ - C#
+ - C++
+ - Java
+ - PHP
+
+
