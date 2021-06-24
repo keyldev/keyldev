@@ -6,5 +6,12 @@
  - C++
  - Java
  - PHP
-
+ - SQL
+## Soft:
+ - Microsoft Visual Studio 2019
+ - Microsoft Visual Code
+ - Sublime Text 3
+ - Notepad++
+ - Blender
+ - Arduino IDE
 
