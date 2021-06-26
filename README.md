@@ -10,6 +10,7 @@
 ## Soft:
  - Microsoft Visual Studio 2019
  - Microsoft Visual Code
+ - Android Studio
  - Sublime Text 3
  - Notepad++
  - Blender
