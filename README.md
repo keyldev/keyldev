@@ -8,7 +8,7 @@
  - PHP
  - SQL
 ## Soft:
- - Microsoft Visual Studio 2019
+ - Microsoft Visual Studio 2022
  - Microsoft Visual Code
  - Android Studio
  - Sublime Text 3
