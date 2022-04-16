@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Sticky Cards](https://github.com/keyldev/stickycards)
 
-- 🌱 I’m currently learning **ASP .NET**
+- 🌱 I’m currently learning **why**
 
 - 👨‍💻 All of my projects are available at [github.com/keyldev](github.com/keyldev)
 
