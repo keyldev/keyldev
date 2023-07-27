@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ASP.NET Core
 
 - 👨‍💻 All of my projects are available at [github.com/keyldev](https://github.com/keyldev)
-- And [gitlab.com/keyldev](https://gitlab.com/keyldev)
+- And [gitlab.com/keyl](https://gitlab.com/keyl)
 
 - 📝 I regularly write articles on [vk.com/cybertent](vk.com/cybertent)
 
