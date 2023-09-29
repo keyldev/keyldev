@@ -12,7 +12,7 @@
 💬 Ask me about everything
 
 
-⚡ Fun fact -  Banging your head against a wall burns 150 calories an hour or 1500.
+⚡ Fun fact -  Banging your head against a wall burns 150 or 1500 calories an hour .
 
 ### OS's
 
