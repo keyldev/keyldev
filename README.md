@@ -7,7 +7,7 @@
 
 👨‍💻 All of my projects are available at [github.com/keyldev](https://github.com/keyldev) and [gitlab.com/keyl](https://gitlab.com/keyl)
 
-📝 I regularly write articles on [vk.com/cybertent](vk.com/cybertent)
+📝 I regularly write articles on [vk.com/cybertent](vk.com/cybertent) (not now)
 
 💬 Ask me about everything
 
