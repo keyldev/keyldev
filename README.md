@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on [GetMe - Taxi service](https://github.com/keyldev/GetMeThere) 🚖
 
-🌱 I’m currently learning ASP.NET Core platform
+🌱 I’m currently learning .NET Core platform
 
 👨‍💻 All of my projects are available at [github.com/keyldev](https://github.com/keyldev) and [gitlab.com/keyl](https://gitlab.com/keyl)
 
