@@ -14,6 +14,8 @@
 
 ⚡ Fun fact -  Banging your head against a wall burns 150 or 1500 calories an hour .
 
+Command & Conquer - is the best RTS!.
+
 ### OS's
 
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
