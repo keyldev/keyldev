@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vasiliy</h1>
 <h3 align="center">Software Engineer / Computer Science</h3>
 
-🔭 I’m currently working on [GetMe - Taxi service](https://github.com/keyldev/GetMeThere) 🚖
+🔭 I’m currently working on [GetMe - Taxi service](https://github.com/keyldev/GetMeThere) 🚖 (currently)
 
 🌱 I’m currently learning .NET Core platform (currently)
 
