@@ -9,7 +9,7 @@
 
 📝 I regularly write articles on [vk.com/cybertent](vk.com/cybertent) (not now)
 
-💬 Ask me about my job
+💬 Ask me about my skills
 
 ⚡ Fun fact -  Banging your head against a wall burns 150 calories an hour 
 
